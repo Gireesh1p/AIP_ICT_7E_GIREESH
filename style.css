@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: cadetblue;
+}
+h2{
+    text-align: center;
+    color: chocolate;
+}
+p{
+    text-align: center;
+    color: darkseagreen
+    ;
+}
+nav{
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+    flex: auto;
+}
+nav>a{
+    text-decoration: none;
+    color: white;
+}
+nav>a:hover{
+    color: #7eb38c;
+}
